@@ -32,3 +32,27 @@ Extras
 
 - 10 equations to change your life
 - How to motivate your child
+
+## NBA Plays
+
+I'm sure some project like this already exists on NBA teams, but can you take NBA plays (time series), analyze shots taken, and see which situations are better for certain players? I've seen ESPN do stats on this, but unsure what techniques (ML?) are used for this. 
+
+I was thinking something like
+
+### Easy
+
+- Take snapshots of player position, player height, around a player that shoots a shot, record make or miss
+- Cluster these snapshots of player orientation into different groups, k-means clustering would be fine
+- Identify patterns to see if players shoot better in certain scenarios
+
+### Medium
+
+Apply these to other plays, such as steals or blocks or rebounds
+
+### Hard
+
+Use more time series data.
+
+### Goal 
+
+The point of this project is to give a systematic way to help coaches choose plays and make adjustments based on how the other team is reacting, and also to educate players to take advantage of their strengths given certain situations.

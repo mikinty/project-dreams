@@ -56,3 +56,7 @@ Use more time series data.
 ### Goal 
 
 The point of this project is to give a systematic way to help coaches choose plays and make adjustments based on how the other team is reacting, and also to educate players to take advantage of their strengths given certain situations.
+
+## Solera age
+
+Calculate solera age, starting with basic assumptions and moving onto a more formal definition for age, and whether it makes sense.

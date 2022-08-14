@@ -32,6 +32,10 @@ Extras
 
 - 10 equations to change your life
 - How to motivate your child
+- From junior to senior engineer
+  - Project creation, management, execution 
+  - Leadership
+  - Mentorship
 
 ## NBA Plays
 

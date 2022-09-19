@@ -36,6 +36,7 @@ Extras
   - Project creation, management, execution 
   - Leadership
   - Mentorship
+- Basic hackathon boilerplates
 
 ## NBA Plays
 

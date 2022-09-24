@@ -65,3 +65,7 @@ The point of this project is to give a systematic way to help coaches choose pla
 ## Solera age
 
 Calculate solera age, starting with basic assumptions and moving onto a more formal definition for age, and whether it makes sense.
+
+## Use Generative Language Models (e.g. GPT-3) to Code
+
+Maybe try to solve leetcode problems with GPT-3 somehow.

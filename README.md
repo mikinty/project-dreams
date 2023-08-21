@@ -27,6 +27,8 @@ Extras
   - Can also do it for St. Emilion for example
 - Write book about wine, but more like a dating for cs majors edition. Systematic, and not just straight spitting facts as we see in books nowadays.
 - Create a free "WSET" on Github
+- `Wine without the Snobbery` could be a title
+  - Wine books are a very crowded space, and a lot of people don't really wanna learn about wine anyway
 
 ## Books to Write
 
@@ -66,6 +68,6 @@ The point of this project is to give a systematic way to help coaches choose pla
 
 Calculate solera age, starting with basic assumptions and moving onto a more formal definition for age, and whether it makes sense.
 
-## Use Generative Language Models (e.g. GPT-3) to Code
+## Human Elo
 
-Maybe try to solve leetcode problems with GPT-3 somehow.
+You can make this into a whole company as well, but just doing the research is pretty interesting for figuring out how to compare people's skills and determine how hard it is to achieve what someone has: https://github.com/viriditycapital/human-elo/tree/master
